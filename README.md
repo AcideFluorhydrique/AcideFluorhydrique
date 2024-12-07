@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AcideFluorhydrique
-- 🌱 I’m currently learning Computer Science and Mathematics at New York University
+- 🌱 I’m currently major in Computer Science and Mathematics at New York University
 - 💞️ I’m looking to study more coding language and project experience...
 - 📫 How to reach me? email: ariel@netc.fr
 - ⚡ Fun fact: Love Patchouli!
