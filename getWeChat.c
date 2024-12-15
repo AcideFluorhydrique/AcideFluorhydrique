@@ -33,3 +33,12 @@ void int2str(char *input) {
     result[result_len] = '\0';
     printf("My WeChat ID is: %s\n", result);
 }
+
+int main() {
+    char input[1000];
+    printf("Enter your answer: ");
+    fgets(input, 1000, stdin);
+    input[strcspn(input, "\n")] = '\0'; 
+    int2str(input);
+    return 0;
+}
