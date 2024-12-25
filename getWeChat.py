@@ -7,3 +7,20 @@ num2char = {
     23: 'w', 24: 'x', 25: 'y', 26: 'z', 
     27: '_'
 }
+
+def int2str(_input):
+    _input = _input.replace(" ", "")
+    result = []
+    for i in range(0, len(_input), 2):
+        num = int(_input[i: i + 2])
+        if num in num2char:
+            result.append(num2char[num])
+        else:
+            print("Error!")
+            return
+    WeChatID = ''.join(result)
+    print("My WeChat ID is:", WeChatID)
+
+your_input = input("Enter your answer: ")
+int2str(your_input)
+
