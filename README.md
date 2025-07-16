@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AcideFluorhydrique
+- 👋 Hi, I’m `@AcideFluorhydrique` from Shanghai, China
 - 🌱 I’m currently major in Computer Science and Mathematics at New York University
 - 💞️ I’m looking to study more coding language and project experience...
-- 📫 How to reach me? email: ariel[at]netc[dot]fr , twitter , or bluesky!
+- 📫 How to reach me? email: `ariel[at]netc[dot]fr` , twitter , or bluesky!
 - ⚡ Fun fact: Love Patchouli!
 
 <img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcideFluorhydrique&theme=tokyonight" style="width:80%"/>
