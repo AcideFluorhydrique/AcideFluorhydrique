@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 This is a summary of my coding activity on GitHub. See also [my Codeberg profile](https://codeberg.org/lanticy). For more info, visit [Lanticy.codeberg.page](https://t.co/5oLjQRfMXv).
 
 * I mostly manage stuff rather than code stuff directly.
-  * I made Barinsta. [You know how that ended up.](https://austinhuang.me/barinsta)
-  * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
+  * I made [OpenRouter Chat Assist](https://github.com/AcideFluorhydrique/OpenRouter-Chat-Assist), which is an windows app to help users tp access GPT in China.
+  * I create a z-Ιiβrαrγ [mirror website](https://z-lib.rf.gd) as well as the [Firefox addon](https://t.co/CPJ0I2x3XP). 
   * I am now a supporter of [Matrix](https://matrix.org), for which I manage [JoinMatrix.org](https://joinmatrix.org) ([repo](https://github.com/austinhuang0131/joinmatrix)).
 
     
@@ -37,7 +37,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
   * New login flow for PixEz (old version): https://github.com/ultranity/Pix-EzViewer/pull/51
   * Scraper improvements for archiving a mutual aid site during Shanghai lockdown: https://github.com/MakersMark3333/shanghai_daohouer_archive/pull/3
 
- 
+  
 You can ask me anything [in this repository's issue section](https://github.com/AcideFluorhydrique/AcideFluorhydrique/issues) if the question is suitable for public. See [here](https://Lanticy.codeberg.page) for more methods to reach me.
  
 ![metrics](https://github.com/AcideFluorhydrique/AcideFluorhydrique/blob/main/github-metrics.svg)
