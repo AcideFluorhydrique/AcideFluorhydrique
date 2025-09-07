@@ -25,7 +25,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
 * I mostly manage stuff rather than code stuff directly.
   * I made [OpenRouter Chat Assist](https://github.com/AcideFluorhydrique/OpenRouter-Chat-Assist), which is an windows app to help users tp access GPT in China.
   * I create a z-Ιiβrαrγ [mirror website](https://z-lib.rf.gd) as well as the [Firefox addon](https://t.co/CPJ0I2x3XP). 
-  * I am now a supporter of [Matrix](https://matrix.org), for which I manage [JoinMatrix.org](https://joinmatrix.org) ([repo](https://github.com/austinhuang0131/joinmatrix)).
+  * I am maintaining [cBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/cblock-origin/), a adblocker based on uBo.
 
     
 * I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of significance) are:
