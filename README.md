@@ -29,7 +29,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
 
     
 * I also throw in a few PRs for projects that I personally use. The most notable PRs are:
-  * [Various PRs](https://github.com/steviek/PathWidgetXplat/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Departure Widget for PATH](https://github.com/steviek/PathWidgetXplat)
+  * Translate [Find my IP](https://github.com/maksimowiczm/find-my-ip), which is a lightweight app that fetches and stores your current IP address.
   * Oracle database support for PrivateBin: https://github.com/PrivateBin/PrivateBin/pull/871 and https://github.com/PrivateBin/PrivateBin/pull/872
   * ActivityPub bridge for RSS-Bridge: https://github.com/RSS-Bridge/rss-bridge/pull/2756 and https://github.com/RSS-Bridge/rss-bridge/pull/3133
   * [Various PRs](https://github.com/rugk/mastodon-simplified-federation/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Mastodon – Simplified Federation!](https://github.com/rugk/mastodon-simplified-federation)
