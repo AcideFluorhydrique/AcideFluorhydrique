@@ -30,7 +30,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
     
 * I also throw in a few PRs for projects that I personally use. The most notable PRs are:
   * Translate [Find my IP](https://github.com/maksimowiczm/find-my-ip), which is a lightweight app that fetches and stores your current IP address.
-  * Oracle database support for PrivateBin: https://github.com/PrivateBin/PrivateBin/pull/871 and https://github.com/PrivateBin/PrivateBin/pull/872
+  * Translate [Bouncer](https://github.com/justinrdonnelly/bouncer), an APP to help you choose the correct firewall zone for wireless connections.
   * ActivityPub bridge for RSS-Bridge: https://github.com/RSS-Bridge/rss-bridge/pull/2756 and https://github.com/RSS-Bridge/rss-bridge/pull/3133
   * [Various PRs](https://github.com/rugk/mastodon-simplified-federation/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Mastodon – Simplified Federation!](https://github.com/rugk/mastodon-simplified-federation)
   * SearXNG: Jisho.org engine https://github.com/searxng/searxng/pull/1030, plus a bugfix https://github.com/searxng/searxng/pull/1023
