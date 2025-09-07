@@ -40,7 +40,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
  
 You can ask me anything [in this repository's issue section](https://github.com/AcideFluorhydrique/AcideFluorhydrique/issues) if the question is suitable for public. See [here](https://Lanticy.codeberg.page) for more methods to reach me.
  
-![metrics](https://github.com/AcideFluorhydrique/AcideFluorhydrique/blob/master/github-metrics.svg)
+![metrics](https://github.com/AcideFluorhydrique/AcideFluorhydrique/blob/main/github-metrics.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AcideFluorhydrique&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
