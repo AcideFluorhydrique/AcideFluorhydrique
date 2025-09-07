@@ -32,7 +32,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
 
     
 * I also throw in a few PRs for projects that I personally use. The most notable PRs are:
-  * I'm maintaining [Chrome Simulator](https://addons.mozilla.org/firefox/addon/chrome-simulator/), a Firefox addon to help those chrome-only websites to function correctly on Firefox, forked from [https://github.com/denschub/chrome-mask](https://github.com/denschub/chrome-mask)
+  * I'm maintaining [Chrome Simulator](https://addons.mozilla.org/firefox/addon/chrome-simulator/), a Firefox addon to help those chrome-only websites to function correctly on Firefox, forked from [Chrome Mask](https://github.com/denschub/chrome-mask)
   * [Find my IP](https://github.com/maksimowiczm/find-my-ip), which is a lightweight app that fetches and stores your current IP address.
   * [Bouncer](https://github.com/justinrdonnelly/bouncer), an APP to help you choose the correct firewall zone for wireless connections.
  
