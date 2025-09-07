@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   schedule: [{cron: "0 */2 * * *"}] # 每 2 小时运行一次，可根据需要调整，例如 "0 0 * * *" 表示每天 0 点运行
   workflow_dispatch: # 允许手动触发
