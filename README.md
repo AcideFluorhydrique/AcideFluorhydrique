@@ -19,6 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
+[🇬🇧English](./README.md)  |  [🇨🇳中文](./README.zh.md)  |  [🇯🇵日本語](./README.ja.md)  |  [🇫🇷Français](./README.fr.md)
+
+
+---
+
 
 This is a summary of my coding activity on GitHub. See also [my Codeberg profile](https://codeberg.org/lanticy). For more info, visit [Lanticy.codeberg.page](https://t.co/5oLjQRfMXv).
 
