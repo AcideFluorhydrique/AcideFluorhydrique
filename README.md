@@ -28,7 +28,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
   * I am maintaining [cBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/cblock-origin/), a adblocker based on uBo.
 
     
-* I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of significance) are:
+* I also throw in a few PRs for projects that I personally use. The most notable PRs are:
   * [Various PRs](https://github.com/steviek/PathWidgetXplat/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Departure Widget for PATH](https://github.com/steviek/PathWidgetXplat)
   * Oracle database support for PrivateBin: https://github.com/PrivateBin/PrivateBin/pull/871 and https://github.com/PrivateBin/PrivateBin/pull/872
   * ActivityPub bridge for RSS-Bridge: https://github.com/RSS-Bridge/rss-bridge/pull/2756 and https://github.com/RSS-Bridge/rss-bridge/pull/3133
