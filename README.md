@@ -3,10 +3,7 @@ AcideFluorhydrique/AcideFluorhydrique is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---
-[🇬🇧English](./README.md)  |  [🇨🇳中文](./README.zh.md)  |  [🇯🇵日本語](./README.ja.md)  |  [🇫🇷Français](./README.fr.md)--->
-
-[🇬🇧English](./README.md)
+[🇬🇧English](./README.md)  |  [🇹🇼中文](./README.zh.md)
 
 ---
 
@@ -24,7 +21,7 @@ Everything here is free software, and most of it is mirrored on
 | | Project | What it is | Get it |
 |:--:|---|---|---|
 | <img src="https://raw.githubusercontent.com/AcideFluorhydrique/carrot/main/fastlane/metadata/android/en-US/images/icon.png" width="50"> | **The Last Carrot**<br><sub>[source](https://github.com/AcideFluorhydrique/carrot)</sub> | A cheerful lane tower-defence game. No ads, trackers, analytics, permissions or network access. | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/io.github.acidefluorhydrique.carrot/) |
-| <img src="https://codeberg.org/lanticy/guandan/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png" width="50"> | **Guandan 掼蛋**<br><sub>[source](https://codeberg.org/lanticy/guandan)</sub> | The four-player Chinese card game over local Wi-Fi. No server, no account, no sign-up. | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/page.codeberg.lanticy.guandan/) |
+| <img src="https://codeberg.org/lanticy/guandan/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png" width="50"> | **Guandan**<br><sub>[source](https://codeberg.org/lanticy/guandan)</sub> | The four-player Chinese card game over local Wi-Fi. No server, no account, no sign-up. | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/page.codeberg.lanticy.guandan/) |
 | <img src="https://raw.githubusercontent.com/AcideFluorhydrique/geminiAssist/main/fastlane/metadata/android/en-US/images/icon.png" width="50"> | **geminiAssist**<br><sub>[source](https://github.com/AcideFluorhydrique/geminiAssist)</sub> | A minimal, hardened WebView wrapper for Google Gemini. | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/io.github.acidefluorhydrique.geminiassist/) |
 | <img src="assets/mapconquer.png" width="50"> | **MapConquer**<br><sub>[source](https://github.com/AcideFluorhydrique/mapconquer)</sub> | Hex-grid turn-based grand strategy. No ads, no trackers, no permissions. | *in development* |
 | <img src="assets/voicememos.png" width="50"> | **Voice Memos**<br><sub>[source](https://github.com/AcideFluorhydrique/voicememos)</sub> | An iOS-style voice recorder for Android with an inline player and a real trim editor, built on the [RecorderApp](https://github.com/tuuhin/RecorderApp) engine. | *in development* |
@@ -33,7 +30,7 @@ Everything here is free software, and most of it is mirrored on
 
 | | Project | What it is | Get it |
 |:--:|---|---|---|
-| <img src="https://codeberg.org/lanticy/Twitter-IP-Region-Display/raw/branch/main/assets/icon128.png" width="50"> | **Twitter IP Region Display**<br><sub>[source](https://codeberg.org/lanticy/Twitter-IP-Region-Display)</sub> | Shows the IP region of accounts on X / Twitter, so you can tell where a post comes from. | [<img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat&logo=firefoxbrowser&logoColor=white">](https://addons.mozilla.org/firefox/addon/twitter-ip-region-display/) |
+| <img src="https://addons.mozilla.org/user-media/addon_icons/2958/2958649-64.png" width="50"> | **Twitter IP Region Display**<br><sub>[source](https://codeberg.org/lanticy/Twitter-IP-Region-Display)</sub> | Shows the IP region of accounts on X / Twitter, so you can tell where a post comes from. | [<img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat&logo=firefoxbrowser&logoColor=white">](https://addons.mozilla.org/firefox/addon/twitter-ip-region-display/) |
 | <img src="https://codeberg.org/lanticy/Chrome-Simulator/raw/branch/main/assets/icon-128.png" width="50"> | **Chrome Simulator**<br><sub>[source](https://codeberg.org/lanticy/Chrome-Simulator)</sub> | Makes Firefox look like Chrome to sites that gate on the user agent. Forked from [Chrome Mask](https://github.com/denschub/chrome-mask). | [<img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat&logo=firefoxbrowser&logoColor=white">](https://addons.mozilla.org/firefox/addon/chrome-simulator/) |
 | <img src="assets/zlib-finder.png" width="50"> | **z-Ιiβrαrγ URL Finder** | Redirects you to a working mirror in one click. | [<img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat&logo=firefoxbrowser&logoColor=white">](https://t.co/CPJ0I2x3XP) |
 | <img src="https://codeberg.org/lanticy/cBlock/raw/branch/main/img/icon_64.png" width="50"> | **cBlock Origin**<br><sub>[source](https://codeberg.org/lanticy/cBlock)</sub> | uBlock Origin adapted for the mainland-China network: same filtering engine, plus CDN and reachability handling for Chinese sites, served from filter-list mirrors ([cAssets](https://codeberg.org/lanticy/cAssets)). | [<img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white">](https://codeberg.org/lanticy/cBlock) |
@@ -44,7 +41,7 @@ Everything here is free software, and most of it is mirrored on
 |:--:|---|---|---|
 | <img src="https://gitlab.com/HydrofluoricAcid/dns/-/raw/main/icon.png" width="50"> | **DoH Proxy Pro**<br><sub>[source](https://gitlab.com/HydrofluoricAcid/dns)</sub> | A DNS-over-HTTPS resolver on Cloudflare Workers: parallel racing across the ten fastest upstreams, circuit breaking, geo-selection and adaptive scoring. Meant to be forked and deployed on **your own** Cloudflare account — I run no shared endpoint. | [fork & self-deploy](https://gitlab.com/HydrofluoricAcid/dns) |
 | | **Google Proxy**<br><sub>[source](https://github.com/AcideFluorhydrique/google-proxy)</sub> | A one-click Vercel deployment of a google.com mirror, ~100 kB first paint. | [deploy on Vercel](https://github.com/AcideFluorhydrique/google-proxy) |
-| | **Blog** | Notes on the things above, and everything else. | [blog.lanticy.dpdns.org](https://blog.lanticy.dpdns.org) |
+| <img src="https://blog.lanticy.dpdns.org/assets/images/austrian-school-crest.png" width="50"> | **Blog** | Notes on the things above, and everything else. | [blog.lanticy.dpdns.org](https://blog.lanticy.dpdns.org) |
 
 ## 🛠 Desktop & scripts
 
@@ -62,7 +59,7 @@ I also send patches to projects I use myself. The most notable:
 * [**Chrome Mask**](https://github.com/denschub/chrome-mask) — the upstream of Chrome Simulator.
 * [**Find my IP**](https://github.com/maksimowiczm/find-my-ip) — a lightweight app that fetches and stores your current IP address.
 * [**Bouncer**](https://github.com/justinrdonnelly/bouncer) — helps you pick the right firewall zone for a wireless connection.
-* [**Smoking Tracker**](https://github.com/pintargasper/SmokingTracker) — I maintain the 繁體中文 and 简体中文 translations.
+* [**Smoking Tracker**](https://github.com/pintargasper/SmokingTracker) — I maintain the Traditional and Simplified Chinese translations.
 
 ### 📫 Reach me
 
