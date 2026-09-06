@@ -1,0 +1,57 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 3 * * *"}] # 每天运行一次。之前是 "0 */2 * * *"，一天 12 个 bot commit
+  workflow_dispatch: # 允许手动触发
+  push:
+    branches: ["main"] # 修改为你仓库的主分支名称，例如 "main"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          # 你的 GitHub 个人访问令牌 (Personal Access Token)
+          # 需要在 GitHub 仓库的 Settings -> Secrets and variables -> Actions 中添加一个名为 METRICS_TOKEN 的 Secret
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 修改为你的 GitHub 用户名
+          
+          user: AcideFluorhydrique # <--- 修改为你的 GitHub 用户名，例如 "your-username"
+          use_prebuilt_image: yes
+          template: classic # 可选：更改为其他模板（如 "markdown", "terminal"），参考 lowlighter/metrics 文档
+          # 修改为你的时区，例如 "Asia/Shanghai", "America/New_York" 等
+          config_timezone: America/Montreal # <--- 修改为你的时区
+          config_padding: 16, 48
+          # base
+          base: header, activity, community, repositories, metadata
+          repositories_forks: no
+          # languages
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          # habits
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          # reactions
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_ignored: github-actions[bot], dependabot[bot]
+          plugin_reactions_limit: 200
+          # followup
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          # achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+          # lines
+          plugin_lines: yes
+          # stargazers
+          plugin_stargazers: yes
+          
