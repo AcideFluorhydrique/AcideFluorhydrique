@@ -4,7 +4,7 @@
 
 ### 👋 你好，我是 `@AcideFluorhydrique`
 
-在紐約大學就讀**應用數學**。
+在紐約大學就讀**數學**。
 我做一些小而私密、沒有廣告的工具——大多是 App、瀏覽器附加元件和自架服務。
 這裡的東西都是自由軟體，多數也同步鏡像在
 [Codeberg](https://codeberg.org/lanticy) 和 [GitLab](https://gitlab.com/HydrofluoricAcid)。
@@ -19,7 +19,7 @@
 | <img src="https://codeberg.org/lanticy/guandan/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png" width="50"> | **Guandan 摜蛋**<br><sub>[原始碼](https://codeberg.org/lanticy/guandan)</sub> | 四人撲克牌遊戲，走區域網路連線。不需要伺服器、不需要帳號、不需要註冊。 | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/page.codeberg.lanticy.guandan/) |
 | <img src="https://raw.githubusercontent.com/AcideFluorhydrique/geminiAssist/main/fastlane/metadata/android/en-US/images/icon.png" width="50"> | **geminiAssist**<br><sub>[原始碼](https://github.com/AcideFluorhydrique/geminiAssist)</sub> | 極簡而且做過加固的 Google Gemini WebView 包裝。 | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/io.github.acidefluorhydrique.geminiassist/) |
 | <img src="assets/mapconquer.png" width="50"> | **MapConquer**<br><sub>[原始碼](https://github.com/AcideFluorhydrique/mapconquer)</sub> | 六角格回合制大戰略。無廣告、無追蹤器、無權限。 | *開發中* |
-| <img src="assets/voicememos.png" width="50"> | **Voice Memos**<br><sub>[原始碼](https://github.com/AcideFluorhydrique/voicememos)</sub> | iOS 風格的 Android 錄音程式，附內嵌播放器和真正能用的剪輯編輯器，建構在 [RecorderApp](https://github.com/tuuhin/RecorderApp) 引擎之上。 | *開發中* |
+| <img src="assets/voicememos.png" width="50"> | **Voice Memos**<br><sub>[原始碼](https://github.com/AcideFluorhydrique/voicememos)</sub> | iOS 風格的 Android 錄音程式，附內嵌播放器和真正能用的剪輯編輯器，建構在 [RecorderApp](https://github.com/tuuhin/RecorderApp) 引擎之上。 | [<img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=f-droid&logoColor=white">](https://f-droid.org/packages/io.github.acidefluorhydrique.voicememos/) |
 
 ## 🧩 瀏覽器附加元件
 
