@@ -40,7 +40,7 @@ Everything here is free software, and most of it is mirrored on
 | | Project | What it is | Where |
 |:--:|---|---|---|
 | <img src="https://developers.cloudflare.com/_astro/logo.te5VL_aD.svg" width="50"> | **DoH Proxy Pro**<br><sub>[source](https://gitlab.com/HydrofluoricAcid/dns)</sub> | A DNS-over-HTTPS resolver on Cloudflare Workers: parallel racing across the ten fastest upstreams, circuit breaking, geo-selection and adaptive scoring. Meant to be forked and deployed on **your own** Cloudflare account — I run no shared endpoint. | [fork & self-deploy](https://gitlab.com/HydrofluoricAcid/dns) |
-| | **Google Proxy**<br><sub>[source](https://github.com/AcideFluorhydrique/google-proxy)</sub> | A one-click Vercel deployment of a google.com mirror, ~100 kB first paint. | [deploy on Vercel](https://github.com/AcideFluorhydrique/google-proxy) |
+|<img src="https://www.google.co.nz/favicon.ico" width="50">  | **Google Proxy**<br><sub>[source](https://github.com/AcideFluorhydrique/google-proxy)</sub> | A one-click Vercel deployment of a google.com mirror, ~100 kB first paint. | [deploy on Vercel](https://github.com/AcideFluorhydrique/google-proxy) |
 | <img src="https://blog.lanticy.dpdns.org/assets/images/austrian-school-crest.png" width="50"> | **Blog** | Notes on the things above, and everything else. | [blog.lanticy.dpdns.org](https://blog.lanticy.dpdns.org) |
 
 ## 🛠 Desktop & scripts
