@@ -23,7 +23,7 @@ jobs:
           # 修改为你的时区，例如 "Asia/Shanghai", "America/New_York" 等
           config_timezone: America/Montreal # <--- 修改为你的时区
           # 高度用百分比，避免底部被裁切；若仍被裁可再调大（如 15%）
-          config_padding: 16, 10% # 原本是 16, 48
+          config_padding: 16, 15% # 原本是 16, 48
           # base
           base: header, activity, community, repositories, metadata
           repositories_forks: no
