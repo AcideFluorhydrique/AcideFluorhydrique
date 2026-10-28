@@ -16,13 +16,14 @@ jobs:
           # 需要在 GitHub 仓库的 Settings -> Secrets and variables -> Actions 中添加一个名为 METRICS_TOKEN 的 Secret
           token: ${{ secrets.METRICS_TOKEN }}
           # 修改为你的 GitHub 用户名
-          
+
           user: AcideFluorhydrique # <--- 修改为你的 GitHub 用户名，例如 "your-username"
           use_prebuilt_image: yes
           template: classic # 可选：更改为其他模板（如 "markdown", "terminal"），参考 lowlighter/metrics 文档
           # 修改为你的时区，例如 "Asia/Shanghai", "America/New_York" 等
           config_timezone: America/Montreal # <--- 修改为你的时区
-          config_padding: 16, 48
+          # 高度用百分比，避免底部被裁切；若仍被裁可再调大（如 15%）
+          config_padding: 16, 10% # 原本是 16, 48
           # base
           base: header, activity, community, repositories, metadata
           repositories_forks: no
@@ -32,11 +33,13 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           # habits
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # 暂时停用：GitHub Events API 不再提供 payload.commits，插件会报错
+          # 等上游修复后取消注释（见 lowlighter/metrics PR #1834）
+          # plugin_habits: yes
+          # plugin_habits_from: 1000
+          # plugin_habits_days: 14
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: yes
           # reactions
           plugin_reactions: yes
           plugin_reactions_display: absolute
@@ -46,12 +49,13 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           # achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0
+          # 暂时停用：查询仍使用已下架的 Projects (classic)，插件会报错
+          # 等上游修复后取消注释（见 lowlighter/metrics PR #1834）
+          # plugin_achievements: yes
+          # plugin_achievements_threshold: B
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_limit: 0
           # lines
           plugin_lines: yes
           # stargazers
           plugin_stargazers: yes
-          
